@@ -16,4 +16,4 @@ Alternatively, if there is simply no space available, you could take your makers
 
 So come and take inspiration from not only the creative learning that is happening within these makerspaces but from the creative approaches to setting them up.
 
-*http://www.infotoday.eu/Articles/Editorial/Featured-Articles/Creative-makerspaces-flexible-learning-spaces-to-suit-your-needs-112106.aspx*
+*www.infotoday.eu/Articles/Editorial/Featured-Articles/Creative-makerspaces-flexible-learning-spaces-to-suit-your-needs-112106.aspx*
