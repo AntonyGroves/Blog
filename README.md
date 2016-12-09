@@ -16,4 +16,6 @@ Alternatively, if there is simply no space available, you could take your makers
 
 
 
+
+
 ######Original post available at: http://www.infotoday.eu/Articles/Editorial/Featured-Articles/Creative-makerspaces-flexible-learning-spaces-to-suit-your-needs-112106.aspx######
