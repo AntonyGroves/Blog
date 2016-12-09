@@ -1,4 +1,4 @@
-# Blog : book :
+# Blog :book:
 
 ###Makerspaces are continuing to grow in popularity, not just with discerning hobbyists and hackers but also within the education sector; blog posts and articles can already be found describing makerspaces in schools, colleges, universities and beyond. Although there are undoubtedly challenges in providing these spaces, the case-studies that have been reported provide practical examples of the ways in which institutions are addressing issues of funding, resources and space to create their own academic makerspaces. This feature will highlight some of these approaches.###
 
